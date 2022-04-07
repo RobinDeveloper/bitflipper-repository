@@ -1,0 +1,20 @@
+A geomagnetic reversal is a change in a planet's magnetic field such that the positions of magnetic  
+ north and magnetic south are interchanged (not to be confused with geographic north and geographic south).
+  The Earth's field has alternated between periods of normal polarity, in which the predominant direction
+   f the field was the same as the present direction, and reverse polarity, in which it was the opposite.
+   These periods are called chrons.
+
+Reversal occurrences are statistically random. There have been 183 reversals over the last 83
+ million years (on average once every ~450,000 years). The latest, the Brunhesâ€“Matuyama reversal, occurred 780,000
+  years ago,[1] with widely varying estimates of how quickly it happned. Other sources estimate that the time that
+  it takes for a reversal to complete is on average around 7,000 years for the four most recent reversals.
+  Clement (2004) suggests that this duration is dependent on latitude, with shorter durations at low latitudes,
+   and longer durations at mid and high latitudes. Although variable, the duration of a full reversal
+   is typically between 2,000 and 12,000 years.
+
+Although there have been periods in which the field reversed globally (such as the Laschamp excursion)
+ for several hundred years, these events are classified as excursions rather than full geomagnetic
+ reversals. Stable polarity chrons often show large, rapid directional excursions, which occur more
+  often than reversals, and could be een as failed reversals. During such an excursion, the field
+ reverses in the liquid outer core, but not in the solid inner core. Diffusion in the liquid outer
+  core is on timescales of 500 years or less, while that of the solid iner core is longer, around 3,000 years.
